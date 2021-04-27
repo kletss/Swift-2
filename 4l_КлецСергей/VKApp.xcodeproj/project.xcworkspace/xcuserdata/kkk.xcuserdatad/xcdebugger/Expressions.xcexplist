@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LikeController.updateSelectedLike():LikeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "likeCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LikeController.selectLike(_:):LikeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "likeCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
