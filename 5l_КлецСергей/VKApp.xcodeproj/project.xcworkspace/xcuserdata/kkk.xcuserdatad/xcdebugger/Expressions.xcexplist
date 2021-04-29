@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FrendsTableViewController.tableView(_:cellForRowAt:):FrendsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FrendsCell">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__pthread_kill:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FrendsTableViewController.viewDidLoad():FrendsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sectionLetter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in FrendsTableViewController.viewDidLoad():FrendsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frends">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LikeController.updateSelectedLike():LikeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "likeCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LikeController.selectLike(_:):LikeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "likeCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
